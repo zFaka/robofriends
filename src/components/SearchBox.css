@@ -1,0 +1,17 @@
+::-webkit-input-placeholder {
+    font-family: 'Minecraft Regular';
+}
+:-moz-placeholder {
+    font-family: 'Minecraft Regular';
+}
+::-moz-placeholder {
+    font-family: 'Minecraft Regular';
+}
+:-ms-input-placeholder {
+    font-family: 'Minecraft Regular';
+}
+
+input[type="search"]
+{
+    font-family: 'Minecraft Regular';
+}

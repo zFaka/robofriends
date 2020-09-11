@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'Minecraft Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Minecraft Regular'), url('MC.woff') format('woff');
+}
+h1 {
+    font-family: 'Minecraft Regular';
+}
